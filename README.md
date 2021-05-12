@@ -6,7 +6,6 @@
 * React JS
 * React Router
 * Redux
-* useContext
 * Bootstrap
 
 #### Usage Tools:
